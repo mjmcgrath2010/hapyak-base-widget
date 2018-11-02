@@ -1,0 +1,19 @@
+{
+  "name": "hapyak-base-widget",
+  "version": "0.0.1",
+  "description": "HapYak base widget utility class for creating HapYak Widgets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjmcgrath2010/hapyak-base-widget.git"
+  },
+  "author": "Mike McGrath <mike@mikemcgrathonline.us> (https://www.hapyak.com/portal)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjmcgrath2010/hapyak-base-widget/issues"
+  },
+  "homepage": "https://github.com/mjmcgrath2010/hapyak-base-widget#readme"
+}
