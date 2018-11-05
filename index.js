@@ -6,6 +6,14 @@ class BaseWidget {
         this.player = hapyak.context.player;
     }
 
+    init() {
+
+    }
+    
+    setupWidget() {
+        
+    }
+
     getTime() {
 
     }
@@ -13,12 +21,11 @@ class BaseWidget {
     setTime() {
 
     }
- 
+
     setPosition() {
 
     }
 
-
-}
+};
 
 module.exports = BaseWidget;
